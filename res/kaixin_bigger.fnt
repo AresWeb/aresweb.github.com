@@ -1,0 +1,20 @@
+info face="字体管家青葱" size=128 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=128 base=109 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="kaixin_bigger_0.png"
+chars count=16
+char id=10   x=484   y=0     width=1     height=1     xoffset=0     yoffset=0     xadvance=0     page=0  chnl=15
+char id=13   x=486   y=0     width=1     height=1     xoffset=0     yoffset=0     xadvance=0     page=0  chnl=15
+char id=126  x=210   y=211   width=74    height=34    xoffset=2     yoffset=14    xadvance=79    page=0  chnl=15
+char id=21333 x=185   y=0     width=73    height=109   xoffset=19    yoffset=15    xadvance=112   page=0  chnl=15
+char id=22810 x=0     y=110   width=76    height=106   xoffset=18    yoffset=16    xadvance=112   page=0  chnl=15
+char id=24425 x=0     y=0     width=93    height=109   xoffset=11    yoffset=16    xadvance=112   page=0  chnl=15
+char id=24453 x=360   y=0     width=101   height=107   xoffset=5     yoffset=16    xadvance=112   page=0  chnl=15
+char id=25964 x=273   y=109   width=101   height=98    xoffset=5     yoffset=20    xadvance=112   page=0  chnl=15
+char id=26356 x=375   y=108   width=80    height=97    xoffset=15    yoffset=21    xadvance=112   page=0  chnl=15
+char id=26399 x=178   y=110   width=94    height=100   xoffset=9     yoffset=20    xadvance=112   page=0  chnl=15
+char id=31934 x=259   y=0     width=100   height=108   xoffset=5     yoffset=16    xadvance=112   page=0  chnl=15
+char id=32479 x=0     y=217   width=108   height=92    xoffset=2     yoffset=21    xadvance=112   page=0  chnl=15
+char id=35745 x=77    y=110   width=100   height=103   xoffset=6     yoffset=19    xadvance=112   page=0  chnl=15
+char id=35831 x=94    y=0     width=90    height=109   xoffset=10    yoffset=15    xadvance=112   page=0  chnl=15
+char id=36134 x=109   y=214   width=100   height=85    xoffset=6     yoffset=27    xadvance=112   page=0  chnl=15
+char id=65292 x=462   y=0     width=21    height=41    xoffset=19    yoffset=87    xadvance=112   page=0  chnl=15
